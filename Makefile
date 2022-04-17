@@ -1,4 +1,4 @@
-NAME = philos
+NAME = philo
 
 LIST = free.c ft_atoi.c init.c logs.c main.c \
 	   parse.c philosophers_logic.c simulation.c \
